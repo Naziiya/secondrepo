@@ -1,0 +1,11 @@
+[1mdiff --git a/app.js b/app.js[m
+[1mindex 727ba5d..34e18d3 100644[m
+[1m--- a/app.js[m
+[1m+++ b/app.js[m
+[36m@@ -1,3 +1,3 @@[m
+ // add new feature[m
+ //add another feature[m
+[31m-//to check merge conflict[m
+\ No newline at end of file[m
+[32m+[m[32m//to create conflict in feature[m
+\ No newline at end of file[m
